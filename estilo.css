@@ -1,7 +1,7 @@
 *{
     font-family: Helvetica;
     box-sizing: border-box;
-    background-color: rgb(247, 252, 179);
+    background-color: rgb(255, 255, 255);
 }
 
 body{
@@ -31,6 +31,7 @@ input, select, textarea{
     border: 2px solid #0c0c0c;
     border-radius: 5px;
     font-size: 1.1rem;
+    background-color: rgb(255, 255, 255)
 }
 
 button{
